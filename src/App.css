@@ -1,0 +1,36 @@
+#root {
+    font-family: "open-sans", sans-serif;
+}
+
+.filter {
+    display: "inline"
+}
+
+input[type="search"] {
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+#pokemon-list {
+    display: inline;
+}
+
+.pokecard {
+    width:100%;
+    height: 400px;
+    margin: 16px;
+    border-radius: 20px; 
+    display: flex;
+    padding: 32px;
+}
+
+
+.pokecard > #name {
+    color: black;
+    font-weight: 600;
+}
+
+
+.pokecard > #number {
+    color: black;
+}
