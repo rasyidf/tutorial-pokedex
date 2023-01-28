@@ -1,4 +1,4 @@
-# Project
+# Project Pokedex
 
 1. create project
 
